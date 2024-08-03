@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I am currently a software engineer and a generalist at that. With the same spirit, I am also open to and looking to explore many other professions in life.
+Previously I worked at Meta and Snowflake.
+
+## 📫 How to reach me
+📧 hoangq317@gmail.com
+
+## ⚡ Fun fact
+- I was a competitive chinese chess (xiangqi) and table tennis player. 2008 was the year I became the U14 champion of my hometown in both sports 🥇
+- I spent 14 years abroad and have only recently moved back to Hanoi
+
 <!--
 **quanganhhoang/quanganhhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
